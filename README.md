@@ -31,7 +31,8 @@ To design a recommendation model that suggests movies to users based on their pa
 - Demonstrated the potential of matrix factorization for large-scale recommendation systems.
 
 ## 📂 Files in Repository
-- `Netflix_recommendation_system.ipynb` – Jupyter notebook with code, visualizations, and analysis.  
+- `Netflix_recommendation_system.ipynb` – Jupyter notebook with code, visualizations, and analysis.
+- `data.csv` – dataset used for training and evaluation (if available).
 - `README.md` – this documentation.  
 
 ## 📈 Visualization
@@ -40,6 +41,7 @@ To design a recommendation model that suggests movies to users based on their pa
 - User recommendation samples generated from the trained model.
 
 ## 🧩 Future Work
+Planned improvements include:
 - Integrate **content-based filtering** to enhance hybrid recommendations.  
 - Deploy model via **Streamlit** for interactive recommendation demos.
 
