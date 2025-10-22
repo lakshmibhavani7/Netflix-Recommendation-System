@@ -1,5 +1,5 @@
 # Netflix-Recommendation-System
-Netflix Recommendation System predicting user preferences and suggesting movies using collaborative filtering in Python.
+Recommending personalized Netflix movies using machine learning (SVD).
 
 # 🎬 Netflix Recommendation System using SVD
 
